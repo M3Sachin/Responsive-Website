@@ -1,2 +1,0 @@
-# Responsive-Website
-ZenX is a company which create websites for those who wants to attract the global audience towards themselves or towards their business.  Our team is highly adaptive. They frequently reasssess amd redirect their course of action to adjust to the changing marketplace.  This company culture operates outside of the typical office structure. Employees are often working together and there's an emphasis  brainstorming, feedback and innovation. Processes are more casual, but team projects are still result-oriented.
