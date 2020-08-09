@@ -21,7 +21,7 @@ HTML and CSS
 * Services
 * Contact Us
 
-#Interfaces
+## Interfaces
 
 * Facebook
 * Instagram
@@ -31,4 +31,4 @@ HTML and CSS
 
 # License
 
-The Website is available as open source under the terms of the Apache Licence 2.0.
+The Website is available as open source under the terms of the [Apache license 2.0](LICENSE).
